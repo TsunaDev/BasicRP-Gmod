@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name"		"BasicRP Materials"
+	"version"	"1.0"
+	"author_name"	"tsuna"
+}

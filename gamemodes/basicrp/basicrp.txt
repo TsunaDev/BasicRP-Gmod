@@ -1,0 +1,7 @@
+"Basic RP"
+{
+  "title"       "Basic RP"
+  "maps"        "^gm_"
+  "menusystem"  "1"
+  "base"        "base"
+}
